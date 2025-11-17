@@ -35,16 +35,6 @@ A full-stack web application for generating AI-powered images using ClipDrop API
 - ⚡ Fast and reliable image processing
 - 🔄 Automatic fallback to mock images if API fails
 
-### Payment Integration
-- 💰 Multiple payment gateway support:
-  - **Razorpay** - for INR transactions
-  - **Stripe** - for international payments
-- 📊 Transaction History
-- 🎁 Flexible credit packages:
-  - Basic: 100 credits
-  - Advanced: 500 credits
-  - Business: 5000 credits
-
 ### UI/UX
 - 🎨 Modern, responsive design with TailwindCSS
 - 🔥 Smooth animations with Framer Motion
